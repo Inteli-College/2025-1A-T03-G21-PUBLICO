@@ -21,3 +21,4 @@ This repository is intended to store the public reports and status updates for e
 For full access to the complete project, including the source code, please request access to the following repository: [2025-1A-T03-G21-INTERNO](https://github.com/Inteli-College/2025-1A-T03-G21-INTERNO/tree/main).
 
 ## License
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
